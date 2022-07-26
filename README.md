@@ -1,5 +1,5 @@
 # Reinforcement learning bot for platformer game "Icy Tower v1.5.1" with open-ai gym custom environment.
-**Project works only on Windows.**
+**Project made for my bachelor's degree at Military University of Technology. Project works only on Windows.**
 
 ## Requirements: 
 - Python 3.8+ - recommended Anaconda - https://www.anaconda.com/products/individual
